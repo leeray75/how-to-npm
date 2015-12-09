@@ -7,8 +7,12 @@
     "test": "node test.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies":{
 	"@linclark/pkg": "^1.0.3"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/leeray75/how-to-npm.git"
   }
 }
